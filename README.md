@@ -5,8 +5,14 @@
   <samp>
     Привет,<img src="https://github.com/serega4517/serega4517/blob/main/img/Hi.gif" width="20px"> меня зовут Сергей. Я начинающий frontend разработчик.
   </samp>
+  
 
-## 🧰 Языки и инструменты
+  <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
+
+
+### 🧰 Языки и инструменты
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,10 +28,4 @@
   ---
   
   ![serega4517 github stay](https://github-readme-stats.vercel.app/api?username=serega4517&count_private=true&show_icons=true&theme=radical)
-
-  <p align="center">
-    <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
-    <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
-    <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
-  </p>
   
