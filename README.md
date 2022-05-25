@@ -23,16 +23,18 @@
 
 ### 🧰 ***Языки и инструменты:***
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-  ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+  ![HTML5 Badge](http://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&link=http://zi-gae.github.io/)
+  ![CSS3 Badge](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=http://zi-gae.github.io/)
+  ![Javscript Badge](http://img.shields.io/badge/-Javascript-000?style=flat-square&logo=javascript&link=http://zi-gae.github.io/)
+  ![React Badge](http://img.shields.io/badge/-React-000?style=flat-square&logo=react&link=http://zi-gae.github.io/)
+  ![Webpack Badge](http://img.shields.io/badge/-Webpack-000?style=flat-square&logo=webpack&link=http://zi-gae.github.io/)
+  ![Babel Badge](http://img.shields.io/badge/-Babel-000?style=flat-square&logo=babel&link=http://zi-gae.github.io/)
+  ![Git Badge](http://img.shields.io/badge/-Git-000?style=flat-square&logo=git&link=http://zi-gae.github.io/)
+  ![Github Badge](http://img.shields.io/badge/-Github-000?style=flat-square&logo=github&link=http://zi-gae.github.io/)
+  ![Visual Studio Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&link=http://zi-gae.github.io/)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 🏆 ***Моя статистика:***
