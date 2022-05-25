@@ -7,13 +7,21 @@
   </samp>
   
 <p align="center">
-  <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
+  <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=serega4517&logoColor=white"></a>
   <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
+  <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
 </p>
 
+### 👩‍💻 ***О себе:***
+  * 🎓 Учусь в Я.Практикуме на веб-разработчика
+  * 😎 Хочу работать в крутой команде с профессионалами своего дела
+  * 🎯 Стремлюсь к работе с настоящими боевыми проектами
+  * ✍🏻 Стараюсь писать чистый и читабельный код
+  * 🚀 Осваиваю новые технологии
+  * 🔥 Хочу научиться анализировать производительность и увеличивать её
 
-### 🧰 Языки и инструменты
+
+### 🧰 ***Языки и инструменты:***
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +34,15 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  ---
+
+### 🏆 ***Моя статистика:***
   
-  ![serega4517 github stay](https://github-readme-stats.vercel.app/api?username=serega4517&count_private=true&show_icons=true&theme=radical)
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact" />
+  </a>
+</div>
   
