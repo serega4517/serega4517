@@ -32,9 +32,9 @@
   ![Git Badge](http://img.shields.io/badge/-Git-000?style=flat-square&logo=git&link=http://zi-gae.github.io/)
   ![Github Badge](http://img.shields.io/badge/-Github-000?style=flat-square&logo=github&link=http://zi-gae.github.io/)
   ![Visual Studio Code Badge](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&link=http://zi-gae.github.io/)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 
 ### 🏆 ***Моя статистика:***
