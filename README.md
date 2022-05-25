@@ -7,7 +7,7 @@
   </samp>
   
 <p align="center">
-  <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=serega4517&logoColor=white"></a>
+  <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
   <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -41,10 +41,10 @@
   
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true" />
+  <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact" />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact" />
   </a>
 </div>
   
