@@ -22,3 +22,5 @@
   ---
   
   ![serega4517 github stay](https://github-readme-stats.vercel.app/api?username=serega4517&count_private=true&show_icons=true&theme=radical)
+
+  <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
