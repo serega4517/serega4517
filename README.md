@@ -6,10 +6,11 @@
     Привет,<img src="https://github.com/serega4517/serega4517/blob/main/img/Hi.gif" width="20px"> меня зовут Сергей. Я начинающий frontend разработчик.
   </samp>
   
-
+<p align="center">
   <a href="https://wa.me/79381144770"><img src="https://img.shields.io/badge/+79381144770-brightgreen?style=plastic&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:serega.4517@gmail.com"><img src="https://img.shields.io/badge/serega.4517@gmail.com-red?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
+</p>
 
 
 ### 🧰 Языки и инструменты
