@@ -5,7 +5,6 @@
   <samp>
     Привет👋 Меня зовут Сергей. Я начинающий frontend разработчик.
   </samp>
-    ![stats](https://komarev.com/ghpvc/?username=serega4517&style=flat-square&color=blueviolet)
   
 <p align="center">
   <a href="https://t.me/serega4517"><img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white"></a>
