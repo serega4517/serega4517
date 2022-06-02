@@ -39,6 +39,7 @@
 ### 🏆 ***Моя статистика:***
   
 <div>
+  ![stats](https://komarev.com/ghpvc/?username=serega4517&style=flat-square&color=blueviolet)
   <a href="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=serega4517&hide=contribs&show_icons=true" />
   </a>
@@ -46,5 +47,4 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serega4517&layout=compact" />
   </a>
 </div>
-![stats](https://komarev.com/ghpvc/?username=serega4517&style=flat-square&color=blueviolet)
   
