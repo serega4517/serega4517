@@ -3,7 +3,7 @@
   <br><br>
   
   <samp>
-    Привет,<img src="https://github.com/serega4517/serega4517/blob/main/img/Hi.gif" width="20px"> меня зовут Сергей. Я начинающий frontend разработчик.
+    Привет,<img src="https://github.com/serega4517/serega4517/blob/main/img/Hi.gif"> меня зовут Сергей. Я начинающий frontend разработчик.
   </samp>
   
 <p align="center">
